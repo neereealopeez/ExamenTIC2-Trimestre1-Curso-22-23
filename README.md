@@ -1,4 +1,4 @@
-# ExamenTIC2 1º Trimestre 2º Bachillerato A Curso-22-23
+# ExamenTIC2 - 1º Trimestre - 2º Bachillerato A - Curso-22-23
 
 ## Realiza los siguientes ejercicios:
 
